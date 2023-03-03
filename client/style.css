@@ -148,3 +148,10 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+form a
+{
+  color: #fff;
+  font-size: 30px;
+  text-decoration: none;
+}
